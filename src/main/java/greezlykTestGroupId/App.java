@@ -12,5 +12,7 @@ public class App
     	MyTextClass mTest = new MyTextClass();
     	mTest.getRandomNumber();
     	System.out.println( "Hello World!" );
+    	
+    	System.out.println("Cool Apps!");
     }
 }

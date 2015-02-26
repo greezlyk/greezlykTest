@@ -9,6 +9,9 @@ public class MyTextClass {
 		
 		final float minimum = 1;
 		final float maximum = 1000; 
+		
+		adfasdf
+		
 		return String.valueOf(minimum + (int)(Math.random()*maximum));	
 		
 	}

@@ -24,6 +24,11 @@ public class App
 		System.out.println( "TestsMethod" );
 		
 	}
+	
+	private static void createNewSuperTextOneMore() {
+    	     System.out.println( "TestsMethod222" );
+		
+	}
     
     
 }

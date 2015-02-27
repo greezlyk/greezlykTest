@@ -14,5 +14,14 @@ public class App
     	System.out.println( "Hello World!" );
     	
     	System.out.println("Cool Apps!");
+    	
+    	createNewText();
     }
+
+	private static void createNewText() {
+    	System.out.println( "TestsMethod" );
+		
+	}
+    
+    
 }

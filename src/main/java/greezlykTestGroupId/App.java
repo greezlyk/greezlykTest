@@ -1,7 +1,7 @@
 package greezlykTestGroupId;
 
 /**
- * Hello world!
+ * Hello world! Cool!
  *
  */
 public class App 
